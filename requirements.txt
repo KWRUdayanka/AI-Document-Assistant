@@ -1,0 +1,10 @@
+openai
+llama-index
+python-dotenv
+PyMuPDF
+tqdm
+gradio
+qdrant-client
+colorlog
+PyMuPDF
+python-docx
