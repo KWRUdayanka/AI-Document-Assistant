@@ -1,6 +1,6 @@
 # 🧠 AI Document Assistant
 
-This script handles the ingestion of `.pdf`, `.docx`, and `.txt` documents into a Qdrant vector database using LlamaIndex, OpenAI embeddings, and QdrantClient.
+This project handles the ingestion of `.pdf`, `.docx`, and `.txt` documents into a Qdrant vector database using LlamaIndex, OpenAI embeddings, and QdrantClient.
 
 A **Retrieval-Augmented Generation (RAG)** chatbot built using:
 
